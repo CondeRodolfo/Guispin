@@ -1,0 +1,6 @@
+@Guispin.Server_HostAddress = http://localhost:5151
+
+GET {{Guispin.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
